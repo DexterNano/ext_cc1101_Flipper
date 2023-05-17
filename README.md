@@ -1,3 +1,12 @@
+# I choose to belive this was left out by mistake 
+But, u need a digital level shifter to get those pesky 5V Digital pins of the Flipper a more tolerable (at least for the D-SUN cc1101 chip) 3.3V, otherwise it does not work.
+
+## I have soldered(?) the connectors of the level shifter now i have to figure out why is not working
+
+
+
+
+
 # Connecting an external radio module СС1101 to Flipper Zero
 This will help to increase the range of reception and transmission of the radio signal.
 
